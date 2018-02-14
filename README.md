@@ -12,6 +12,6 @@ npm init -y
 ```
 npm test
 
-// or with coverage and go to (new-project/coverage/lcov-report/index.html)
+or with coverage and go to (path/of/your/system/new-project/coverage/lcov-report/index.html)
 npm run test:coverage
 ```
