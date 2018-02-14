@@ -1,7 +1,7 @@
 {
-  "name": "js-starter-generator",
+  "name": "js-starter",
   "version": "1.0.0",
-  "description": "Generate a minimal js app structure out of the box",
+  "description": "A minimal js app out of the box",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yao-dev/js-starter-generator.git"
+    "url": "git+https://github.com/yao-dev/js-starter.git"
   },
   "keywords": [],
   "author": "Michaël Yao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yao-dev/js-starter-generator/issues"
+    "url": "https://github.com/yao-dev/js-starter/issues"
   },
-  "homepage": "https://github.com/yao-dev/js-starter-generator#readme",
+  "homepage": "https://github.com/yao-dev/js-starter#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-plugin-istanbul": "^4.1.5",
