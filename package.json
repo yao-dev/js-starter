@@ -1,23 +1,13 @@
 {
-  "name": "js-starter",
   "version": "1.0.0",
-  "description": "A minimal js app out of the box",
   "main": "index.js",
   "scripts": {
     "test": "jest src --watch",
     "test:coverage": "NODE_ENV=test nyc --reporter=lcov --reporter=text jest src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yao-dev/js-starter.git"
-  },
   "keywords": [],
   "author": "Michaël Yao",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yao-dev/js-starter/issues"
-  },
-  "homepage": "https://github.com/yao-dev/js-starter#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-plugin-istanbul": "^4.1.5",
