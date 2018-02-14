@@ -7,7 +7,7 @@ git init
 git remote rm origin
 git remote add origin git@github.com:username/new-project.git
 npm init
-npm Install
+npm install
 ```
 
 ## Run tests
