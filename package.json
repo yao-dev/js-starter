@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "main": "index.js",
+  "description": "",
   "scripts": {
     "test": "jest src --watch",
     "test:coverage": "NODE_ENV=test nyc --reporter=lcov --reporter=text jest src"
