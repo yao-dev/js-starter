@@ -5,7 +5,7 @@ git clone git@github.com:yao-dev/js-starter.git new-project
 cd new-project && git init
 git remote rm origin
 git remote add origin git@github.com:username/new-project.git
-npm init -y
+npm init
 ```
 
 ## Run tests
