@@ -1,4 +1,5 @@
 {
+  "description": "A minimal js app out of the box",
   "scripts": {
     "test": "jest src --watch",
     "test:coverage": "NODE_ENV=test nyc --reporter=lcov --reporter=text jest src"
